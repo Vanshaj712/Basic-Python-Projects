@@ -1,7 +1,5 @@
 import random
-import pandas
-pandas.Series
-import pygame
+
 args = "abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWZYZ!@#$%^&*'?/"
 
 p_num = int(input("Enter the no. of password: "))
